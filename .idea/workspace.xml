@@ -4,23 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d84f625d-6b0b-4905-8f1f-b448bed02c83" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build.gradle.kts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/settings.gradle.kts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/n1exercici1/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/n1exercici1/observable/AgentDeBorsa.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/n1exercici1/observable/Notificador.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/n1exercici1/observers/AgenciaDeBorsa.java" afterDir="false" />
+    <list default="true" id="d84f625d-6b0b-4905-8f1f-b448bed02c83" name="Changes" comment="&quot;n2exercici1&quot;">
+      <change afterPath="$PROJECT_DIR$/src/main/java/n2exercici1/BotigaDeSabates.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/n2exercici1/DeuteCompteBancari.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/n2exercici1/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/n2exercici1/MetodeDePagament.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/n2exercici1/PasarelaDePagament.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/n2exercici1/Paypal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/n2exercici1/TarjaDeCredit.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,12 +53,17 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
     "onboarding.tips.debug.path": "C:/Users/urier/Desktop/IT ACADEMY/CURSO JAVA SPRING FRAMEWORKS/Sprint3.Patterns/S3.02.Patterns2/src/main/java/org/example/Main.java"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="n2exercici1" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -76,9 +73,21 @@
       <option name="presentableId" value="Default" />
       <updated>1706902275598</updated>
     </task>
+    <task id="LOCAL-00001" summary="&quot;n1exercici1&quot;">
+      <option name="closed" value="true" />
+      <created>1706971841653</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1706971841653</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="&quot;n1exercici1&quot;" />
+    <MESSAGE value="&quot;n2exercici1&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="&quot;n2exercici1&quot;" />
   </component>
 </project>
