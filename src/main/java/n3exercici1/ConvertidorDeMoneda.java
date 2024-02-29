@@ -18,7 +18,7 @@ public class ConvertidorDeMoneda {
     }
 
     public double canviarDivisa (Moneda monedaInicial, double quantitat){
-        return (double) Math.round(quantitat * (this.tipusMoneda.getValorMoneda()) / (monedaInicial.getValorMoneda()) * 100d) /100;
+        return (double) Math.round(quantitat * (this.tipusMoneda.getValorMoneda()) / (monedaInicial.getValorMoneda()) * 100) /100;
     }
 
 }

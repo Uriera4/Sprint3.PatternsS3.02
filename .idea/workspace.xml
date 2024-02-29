@@ -4,18 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d84f625d-6b0b-4905-8f1f-b448bed02c83" name="Changes" comment="&quot;n2exercici1&quot;">
-      <change afterPath="$PROJECT_DIR$/src/main/java/n3exercici1/Article.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/n3exercici1/ConvertidorDeMoneda.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/n3exercici1/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/n3exercici1/monedes/Dolar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/n3exercici1/monedes/Euro.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/n3exercici1/monedes/Lliura.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/n3exercici1/monedes/Moneda.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/n3exercici1/monedes/Pesos.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/n3exercici1/monedes/Soles.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/n3exercici1/monedes/Yen.java" afterDir="false" />
+    <list default="true" id="d84f625d-6b0b-4905-8f1f-b448bed02c83" name="Changes" comment="&quot;n3exercici1&quot;">
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/n2exercici1/PasarelaDePagament.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/n2exercici1/PasarelaDePagament.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/n3exercici1/ConvertidorDeMoneda.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/n3exercici1/ConvertidorDeMoneda.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,6 +19,18 @@
     <projectState path="$PROJECT_DIR$">
       <ProjectState />
     </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand />
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -38,9 +43,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 6
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
   <component name="ProjectId" id="2bpBjOAVVUKNuzduMG4cUt5h8Xy" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -59,6 +64,7 @@
     "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/urier/Desktop/IT ACADEMY/CURSO JAVA SPRING FRAMEWORKS/Sprint3.Patterns/S3.02.Patterns2",
     "onboarding.tips.debug.path": "C:/Users/urier/Desktop/IT ACADEMY/CURSO JAVA SPRING FRAMEWORKS/Sprint3.Patterns/S3.02.Patterns2/src/main/java/org/example/Main.java"
   }
 }]]></component>
@@ -68,6 +74,13 @@
       <recent name="n3exercici1" />
       <recent name="n2exercici1" />
     </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-21.0.1-openjdk-21.0.1-4caba194b151-23eed401" />
+      </set>
+    </attachedChunks>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -94,13 +107,22 @@
       <option name="project" value="LOCAL" />
       <updated>1707001706661</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="&quot;n3exercici1&quot;">
+      <option name="closed" value="true" />
+      <created>1707090086725</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1707090086725</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="&quot;n1exercici1&quot;" />
     <MESSAGE value="&quot;n2exercici1&quot;" />
-    <option name="LAST_COMMIT_MESSAGE" value="&quot;n2exercici1&quot;" />
+    <MESSAGE value="&quot;n3exercici1&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="&quot;n3exercici1&quot;" />
   </component>
 </project>
